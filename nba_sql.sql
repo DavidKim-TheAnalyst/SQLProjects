@@ -1,4 +1,20 @@
 /*
+Objective:
+Analyzed NBA player stats for the 2021-2022 season and historical data (1988-2022) to identify leading players, and common traits among elites, and assess team performance.
+
+Key Findings:
+Identified top scorers, assisters, shot blockers, three-point scorers, steal leaders, and rebounders.
+Explored common traits among elite players such as LeBron James, Giannis Antetokounmpo, Stephen Curry, and Nikola Jokic.
+Assessed team potential by ranking players and counting top performers for each team.
+
+Data Processing:
+Cleaned data by addressing null values and excluding players with limited playing time.
+Utilized SQL queries to extract relevant insights and perform rankings.
+
+Conclusion:
+Provided valuable insights into individual player performances, shared traits among elite players, and team potential based on key statistics.
+*/
+/*
 Data Source:
 	https://www.kaggle.com/datasets/sadeghjalalian/nba-player-stats-19982022/versions/1?resource=download
 */
